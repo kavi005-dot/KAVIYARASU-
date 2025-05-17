@@ -1,6 +1,6 @@
 # Fake and True News Detection Project:
 
-Project don by HARIKRISHNAN V
+Project don by KAVIYARASU.S
 
 The code will produce evaluation metrics and provide a prediction for whether the given news is true or false based on the trained model.
 
